@@ -8,7 +8,7 @@ The files included in this repo are as follows:
 - AppleSpawnAuthoring.cs
 - AppleSpawnSystem.cs
 - AppleTreeAuthoring.cs
-*BasketAuthoring.cs
-*BasketSpawnSystem.cs
-*RandomDirectionChangeSystem.cs
-*TreeMovementSystem.cs
+- BasketAuthoring.cs
+- BasketSpawnSystem.cs
+- RandomDirectionChangeSystem.cs
+- TreeMovementSystem.cs
